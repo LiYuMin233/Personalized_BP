@@ -4,7 +4,7 @@ This repository contains explanatory information for working with the "SHE-Perso
 
 The dataset includes de-identified participant information, raw sensor data aligned with each BP measurement. The publishing of this dataset is intended to aid future cardiovascular research.
 
-Raw sensor data: ECG, PPG, PCG. BP Measurement: Auscultation (Omron). 
+Raw sensor data: ECG, PPG, PCG. BP Measurement: Auscultation. 
 
 Participant information: Age, Gender, Weight, Height, BMI. Number of subjects: 11.
 
